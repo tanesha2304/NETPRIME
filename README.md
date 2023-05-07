@@ -43,7 +43,7 @@ Install latest version of npm
 
 1. Clone the project
    ```sh
-   git clone https://github.com/mradulsingh0223/NETPRIME.git
+   git clone https://github.com/tanesha2304/NETPRIME.git
    ```
 2. Go to project directory and Install NPM packages
    ```sh
@@ -56,7 +56,7 @@ Install latest version of npm
    ```
 5. In a new directory, clone the backend and follow installation instructions on its README
    ```sh
-   git clone https://github.com/mradulsingh0223/NETPRIME.git
+   git clone https://github.com/tanesha2304/NETPRIME.git
    ```
 6. You should now have the server running locally. Add the url to your .env
    ```sh
