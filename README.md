@@ -127,4 +127,4 @@ Install latest version of npm
 
 https://www.linkedin.com/in/tanesha-tyagi-ba7622258/
 
-Project Link: https://github.com/mradulsingh0223/NETPRIME.git
+Project Link: https://github.com/tanesha2304/NETPRIME.git
